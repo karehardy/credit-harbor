@@ -32,12 +32,6 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 (Screenshot Placeholder: Admin dashboard UI)
 
 ### 4. **Tokenization & Transactions**
-- Future plans for integration with **Hedera Managed Guardian Service (MGS)** for tokenized credits.
-- Transparent, immutable record-keeping for transactions.
-
-(Screenshot Placeholder: Transaction process UI)
-
-### 4. **Tokenization & Transactions**
 - Future exploration of integration with **Hedera Managed Guardian Service (MGS)** for tokenized credits.
 - Researching feasibility for transparent, immutable record-keeping for transactions.
 
