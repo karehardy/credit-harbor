@@ -28,9 +28,9 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 
 ![Imagealt](project-submission-form1.png) = The form project developers fill out and submit.
 
-![Imagealt](project submission form2.png)
+![Imagealt](project-submission-form2.png)
 
-![Imagealt](project submission form 3.png)
+![Imagealt](project-submission-form3.png)
 
 ### 3. **Admin Dashboard**
 - Admin portal centrally manages settings and data for the app.
@@ -39,7 +39,7 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - **Project tab** - full listing of projects and status "Pending Review", "Active", "Inactive".
 - **Engagements tab** - full list of engagements and status "Requested", "Confirmed", "Inactive".
 
-![Imagealt](admin email templates.png) – Screenshots of the email templates used in the platform.
+![Imagealt](admin-email-templates.png) – Screenshots of the email templates used in the platform.
 
 ![Imagealt](admin-project-status.png) – Projects listed with statuses like Pending, Active, etc.
 
