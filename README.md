@@ -27,7 +27,9 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - Nature Wired admin team can reach out directly (off-platform).
 
 ![Imagealt](project-submission-form1.png) = The form project developers fill out and submit.
+
 ![Imagealt](project submission form2.png)
+
 ![Imagealt](project submission from 3.png)
 
 ### 3. **Admin Dashboard**
@@ -38,8 +40,11 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - **Engagements tab** - full list of engagements and status "Requested", "Confirmed", "Inactive".
 
 ![Imagealt](admin email templates.png) – Screenshots of the email templates used in the platform.
+
 ![Imagealt](admin-project-status.png) – Projects listed with statuses like Pending, Active, etc.
+
 ![Imagealt](admin-engagement-status.png) – Engagements listed with statuses like Requested, Confirmed, Inactive.
+
 ![Imagealt](admin-dashboard-functions.png) – The admin functions available in the dashboard.
 
 ### 4. **Tokenization & Transactions**
