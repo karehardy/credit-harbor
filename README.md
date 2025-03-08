@@ -38,9 +38,9 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - **Engagements tab** - full list of engagements and status "Requested", "Confirmed", "Inactive".
 
 ![Imagealt](admin email templates.png) – Screenshots of the email templates used in the platform.
-admin-project-status.png – Projects listed with statuses like Pending, Active, etc.
-admin-engagement-status.png – Engagements listed with statuses like Requested, Confirmed, Inactive.
-admin-dashboard-functions.png – The admin functions available in the dashboard.
+![Imagealt](admin-project-status.png) – Projects listed with statuses like Pending, Active, etc.
+![Imagealt](admin-engagement-status.png) – Engagements listed with statuses like Requested, Confirmed, Inactive.
+![Imagealt](admin-dashboard-functions.png) – The admin functions available in the dashboard.
 
 ### 4. **Tokenization & Transactions**
 - Future exploration of integration with **Hedera Managed Guardian Service (MGS)** for tokenized credits.
@@ -74,7 +74,8 @@ admin-dashboard-functions.png – The admin functions available in the dashboard
 ## Contributing & Contact
 While **Credit Harbor** is built using a no-code approach, we welcome collaboration for API integrations and feature enhancements. For more information:
 - Contact: [hello@naturewired.earth]
+- Website: [https://creditharbor.naturewired.earth](https://creditharbor.naturewired.earth)
 
 ---
 
-**Disclaimer:** Credit Harbor is in its MVP stage and continuously evolving. Features may be updated as we integrate with blockchain-based verification solutions.
+**Disclaimer:** Credit Harbor is in its MVP stage and continuously evolving. Features may be updated with feedback and as we integrate with blockchain-based verification solutions.
