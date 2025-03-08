@@ -12,7 +12,7 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - Sender automatically receives an email confirmation message of request.
 - Nature Wired admin team can reach out directly (off-platform). 
 
-![Imagealt](image_url)
+![Imagealt](marketplace-main)
 
 ### 2. **Project Onboarding and Verification**
 - Project developers can fill in a new nature-based project inquiry form.
