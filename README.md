@@ -12,7 +12,13 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - Sender automatically receives an email confirmation message of request.
 - Nature Wired admin team can reach out directly (off-platform). 
 
-![Imagealt](marketplace-main.png)
+![Imagealt](marketplace-main.png) – The main marketplace page where buyers browse projects.
+
+![Imagealt](marketplace-project-detail.png) – When a buyer clicks on a project, sees details, and clicks to connect.
+
+![Imagealt](marketplace-inquiry-form.png) - The form buyers fill out to submit an inquiry.
+
+![Imagealt](marketplace-search-options.png) - The search and filtering options available to buyers.
 
 ### 2. **Project Onboarding and Verification**
 - Project developers can fill in a new nature-based project inquiry form.
@@ -20,7 +26,9 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - Sender automatically receives confirmation message of request.
 - Nature Wired admin team can reach out directly (off-platform).
 
-(Screenshot Placeholder: Project onboarding screen)
+![Imagealt](project-submission-form1.png) = The form project developers fill out and submit.
+![Imagealt](project submission form2.png)
+![Imagealt](project submission from 3.png)
 
 ### 3. **Admin Dashboard**
 - Admin portal centrally manages settings and data for the app.
@@ -29,7 +37,10 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 - **Project tab** - full listing of projects and status "Pending Review", "Active", "Inactive".
 - **Engagements tab** - full list of engagements and status "Requested", "Confirmed", "Inactive".
 
-(Screenshot Placeholder: Admin dashboard UI)
+![Imagealt](admin email templates.png) – Screenshots of the email templates used in the platform.
+admin-project-status.png – Projects listed with statuses like Pending, Active, etc.
+admin-engagement-status.png – Engagements listed with statuses like Requested, Confirmed, Inactive.
+admin-dashboard-functions.png – The admin functions available in the dashboard.
 
 ### 4. **Tokenization & Transactions**
 - Future exploration of integration with **Hedera Managed Guardian Service (MGS)** for tokenized credits.
