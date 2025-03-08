@@ -30,7 +30,7 @@ Credit Harbor is a two-way marketplace developed by **Nature Wired** to connect 
 
 ![Imagealt](project submission form2.png)
 
-![Imagealt](project submission from 3.png)
+![Imagealt](project submission form 3.png)
 
 ### 3. **Admin Dashboard**
 - Admin portal centrally manages settings and data for the app.
