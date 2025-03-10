@@ -81,4 +81,4 @@ While **Credit Harbor** is built using a no-code approach, we welcome collaborat
 
 ---
 
-**Disclaimer:** Credit Harbor is in its MVP stage and continuously evolving. Features may be updated with feedback and as we integrate with blockchain-based verification solutions.
+**Disclaimer:** Credit Harbor is in its MVP stage and continuously evolving. Projects currently listed are for reference purposes only. Features will continue to be updated with feedback and as we integrate with blockchain-based verification solutions.
